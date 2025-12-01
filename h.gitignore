@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+4_web_development/node_modules/
+
+# Next.js / React build
+.next/
+dist/
+out/
+
+# Env files
+.env
+.env.*
