@@ -1,12 +1,12 @@
-# Node dependencies
+# Dependencies
 node_modules/
 4_web_development/node_modules/
 
-# Next.js / React build
-.next/
-dist/
-out/
+# Build directories
+4_web_development/.next/
 
-# Env files
+# Environment files
 .env
 .env.*
+4_web_development/.env
+4_web_development/.env.*
