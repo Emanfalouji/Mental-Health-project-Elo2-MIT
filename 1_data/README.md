@@ -1,1 +1,0 @@
-Due to the limited availability of large open-datasets specifically for war-affected young adults aged 18–35, this project uses available refugee/PTSD databases for context + a synthetic dataset for design insights.

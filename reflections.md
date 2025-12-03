@@ -14,6 +14,7 @@ War-affected youth face immense psychological burdens that often remain invisibl
 ---
 
 ## What I Hope to Learn
+
 - How mental-health support platforms are designed
 - Trauma-aware UX and communication methods
 - Ethical considerations when dealing with vulnerable users
@@ -21,31 +22,14 @@ War-affected youth face immense psychological burdens that often remain invisibl
 
 ---
 
-## Day-by-Day Reflection
+## Reflection
 
-### 📅 Day 1 – Problem Definition
+### Problem Definition
+
 - Clarified target users: youth in conflict zones (e.g., Gaza) + displaced youth in host countries
 - Wrote final problem statement and research question
 - I feel confident that this project addresses a real and urgent need
-
-### 📅 Day 2 – Domain Research *(to be filled later)*
-
-### 📅 Day 3 – Personas & Journey Mapping *(to be filled later)*
-
-### 📅 Day 4 – Data Plan *(to be filled later)*
-
-### 📅 Day 5 – Data Collection *(to be filled later)*
-
-### 📅 Day 6 – Data Analysis *(to be filled later)*
-
-### 📅 Day 7 – Platform Design *(to be filled later)*
-
-### 📅 Day 8 – Implementation Plan *(to be filled later)*
-
-### 📅 Day 9 – Final Deliverables *(to be filled later)*
-
-### 📅 Day 10 – Final Reflection *(to be filled later)*
-
+]
 ---
 
 ## Final Thoughts (to write on Day 10)

@@ -5,11 +5,14 @@
 This research explores the main psychological effects of war on young adults and the barriers preventing them from accessing mental-health support — both inside conflict zones (e.g., Gaza) and in host countries (e.g., Türkiye, Egypt, Europe).
 
 ---
+
 ## 0 calls results :
 
 I have called trained mental health students asa well as professinals : 
 I came with conclucion that :
-**Target Users** are : 
+
+**Target Users** are :
+
 youth aged 18-45 is the perfect age to benefit from the website .. as my initial thought was children but all of them agress that children is so hard to focus on an online platform to get support as they need pysically and face-to-face acitivity to  
 
 ## 1️⃣ Key Mental-Health Challenges
