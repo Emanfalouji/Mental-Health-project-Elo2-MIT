@@ -1,0 +1,3 @@
+## Background Review 
+
+War and displacement have profound psychological consequences, especially for young adults, who often experience repeated trauma during their most formative developmental years. Global health agencies such as WHO, UNICEF, and UNRWA repeatedly warn that conflict-affected youth face some of the highest mental-health burdens in the world. The following evidence highlights the severity of the crisis and the urgent need for innovative mental-health support solutions.
