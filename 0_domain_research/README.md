@@ -50,3 +50,18 @@ Reports from UNICEF, UNRWA, and WHO further indicate:
 
 Displacement has also fractured social, cultural, and religious continuity, creating deep identity challenges among young adults. Over **85% of Gaza’s population** has been forcibly displaced, with many living in overcrowded shelters lacking safety, privacy, and basic resources. The loss of family networks, community structures, and a sense of belonging intensifies psychological distress and increases vulnerability to mental-health disorders.  
 (Source: [WHO EMRO, 2025](https://www.emro.who.int/afg/a-narrative-review-of-mental-health-and-psychosocial-impact-of-the-war-in-gaza.html))
+
+## Rationale for Digital Mental-Health Solutions
+
+The urgent need for accessible mental-health support in conflict-affected populations has led global health agencies to emphasize the potential of digital platforms as scalable, cost-effective, and stigma-reducing interventions. According to the World Health Organization’s 2023 Digital Health Report, technology-assisted mental-health care can significantly expand service availability in regions where traditional systems are under-resourced or disrupted. In conflict ecosystems like Gaza, where infrastructure damage, displacement, and insecurity restrict physical access to care, digital tools represent an essential alternative rather than a supplementary resource.
+
+Digital mental-health interventions have several advantages:
+
+- **Accessibility in restricted environments:** Digital tools can reach individuals in shelters, temporary housing, or conflict zones where travel is unsafe or impossible.
+- **Reduced stigma:** Many young adults hesitate to seek face-to-face therapy due to cultural stigmas. Anonymous digital platforms allow them to access support privately and safely.
+- **Scalability:** A digital platform can serve thousands simultaneously, reducing strain on overstretched mental-health systems.
+- **Cost-effectiveness:** Compared to in-person clinical infrastructure, digital solutions require fewer financial and human resources.
+- **Personalization and cultural adaptability:** Platforms can be designed to incorporate culturally relevant language, trauma-sensitive content, and localized resources.
+- **Continuity of care across borders:** Refugees moving between Gaza, Egypt, Türkiye, and Europe often lose access to consistent mental-health services. A digital platform can provide stable, ongoing support regardless of geographic location.
+
+UNICEF and WHO both recommend developing digital mental-health programs for youth in emergencies, noting that digital tools can offer psychoeducation, basic triage, crisis support, and pathways to connect with professionals when available. Existing evidence shows that digital interventions can reduce symptoms of depression, anxiety, and PTSD, particularly when combined with structured guidance or human support. For displaced and war-affected populations, technological solutions are often the only feasible means of sustaining mental-health care.
