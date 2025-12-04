@@ -30,7 +30,7 @@ There is a critical need for a **safe, low-cost, and culturally sensitive** ment
 ## 👥 Target Users
 
 ### Primary User
-Young adults (18–35) directly affected by war — either still inside their home city (e.g., Gaza after the war) or displaced to a host country — experiencing trauma, PTSD, anxiety, loss, and isolation.
+Young adults (18–45) directly affected by war — either still inside their home city (e.g., Gaza after the war) or displaced to a host country — experiencing trauma, PTSD, anxiety, loss, and isolation.
 
 ### Secondary User
 Trained volunteers / early-career mental-health professionals who want to provide guided emotional support.
@@ -87,7 +87,9 @@ mental-health-war-trauma/
   README.md
   reflections.md
   0_domain_research/
-  1_data/
-  2_analysis/
-  3_platform_design/
-  4_communication/
+  1_datasets/
+  2_data_preparation/
+  3_data_exploration/
+  4_data_analysis/
+  5_platform_design/
+  6_web_development/
